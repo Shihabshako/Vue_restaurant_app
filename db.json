@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "Shihab Jamil",
+      "email": "shihab9720@gmail.com",
+      "password": "1212",
+      "id": 1
+    },
+    {
+      "name": "as",
+      "email": "as@gmail.com",
+      "password": "1212",
+      "id": 2
+    },
+    {
+      "name": "Labib Jamil",
+      "email": "labib@gmail.com",
+      "password": "1212",
+      "id": 3
+    },
+    {
+      "name": "Saidul",
+      "email": "saidul@gmail.com",
+      "password": "1212",
+      "id": 4
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Burger New",
+      "contact": "013821793123",
+      "address": "Dhaka, Bangladesh",
+      "id": 1
+    },
+    {
+      "name": "Pizza",
+      "contact": "000000000",
+      "address": "Khulna, Bangladesh",
+      "id": 2
+    },
+    {
+      "name": "Biriyani",
+      "contact": "29872918379",
+      "address": "Mirpur , Dhaka",
+      "id": 4
+    },
+    {
+      "name": "this is a new item",
+      "contact": "2918389187",
+      "address": "Old Dhaka",
+      "id": 5
+    },
+    {
+      "name": "Fried Rice",
+      "contact": "013821793123",
+      "address": "Rangpur, Bangladesh",
+      "id": 6
+    }
+  ]
+}
